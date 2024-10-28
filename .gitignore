@@ -193,3 +193,4 @@ cython_debug/
 /dataSources/
 /dataSources.local.xml
 
+/.idea/
